@@ -317,7 +317,6 @@ const styles = StyleSheet.create({
         height: 300,
         backgroundColor: '#ffffff',
         borderColor: '#000',
-        //alignItems: 'center',
         flexDirection: 'column',
     },
     modalheader: {
@@ -334,7 +333,6 @@ const styles = StyleSheet.create({
         borderBottomWidth: 1.5,
         borderColor: '#dcdcdcdc',
         justifyContent: 'center',
-        //paddingLeft: 20
     },
     buttonmodal2: {
         width: '100%',
