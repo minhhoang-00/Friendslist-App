@@ -89,9 +89,6 @@ const Search = ({ navigation }) => {
 const styles = StyleSheet.create({
     view: {
         flex: 1,
-        //alignItems: 'center',
-        //marginVertical: 30,
-        //justifyContent: 'center',
         backgroundColor: '#f47564',
         alignItems: 'center'
     },
@@ -127,7 +124,6 @@ const styles = StyleSheet.create({
         paddingTop: 20
     },
     textres: {
-        //paddingVertical: 20,
         fontSize: 18,
         color: '#f47564',
         fontWeight: 'bold',
